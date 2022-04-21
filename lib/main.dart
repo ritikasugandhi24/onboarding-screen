@@ -67,7 +67,7 @@ class _MainPageState extends State<MainPage> {
                   hero: Image.asset("./assets/guy.png"),
                   title: "Heat up your Soul",
                   subtitle:
-                      "Get Access to unlimited songs just in one click,listen to your favourite singer only on FLAME",
+                      "Get Access to unlimited songs just in one click,listen to your favourite album/singer only on FLAME",
                   onNext: nextPage),
               Slide(
                   hero: Image.asset("./assets/girl.png"),
